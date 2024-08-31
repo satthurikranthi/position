@@ -1,0 +1,91 @@
+.chill mood{
+    width: 300px;
+}
+
+
+
+#rain{
+    position: relative;
+    top: 3000px;
+}
+
+
+#parents{
+    position: relative;
+    bottom: 1000px;
+    left: 1300px;
+    
+    
+}
+
+
+
+
+#playground{
+    position: relative;
+    bottom: 1000px;
+    right: 500px;
+}
+
+
+
+#rain2{
+    position: relative;
+    bottom: 1000px;
+
+
+    
+}
+
+
+#mirchi{
+    position: relative;
+    bottom: 1000px;
+
+
+}
+
+
+
+#rain3{
+    position: relative;
+    bottom: 2500px;
+    left: 600px;
+}
+
+
+
+#logo{
+    width: 150px;
+    position: fixed;
+    bottom: 800px;
+    top:0px;
+    right: 0px;
+    z-index: 22;
+}
+
+
+#logiheading{
+    background-color: brown;
+    position:sticky;
+    top:0px;
+    z-index: 20;
+}
+
+
+#parent{
+    width:500px;
+    height:500px;
+    background-color: chocolate;
+    position: relative;
+}
+
+
+#child{
+    width: 100px;
+    height: 100px;
+    background-color: chartreuse;
+    position:absolute;
+    right: 100px;
+    bottom: 100px;
+}
